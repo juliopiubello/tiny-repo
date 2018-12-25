@@ -1,0 +1,1 @@
+const other_thing = '2'
